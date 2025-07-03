@@ -1,5 +1,7 @@
 div{
-    
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
     color: white;
     text-align: center;
     font-family:  "Libre Baskerville", serif;
@@ -8,14 +10,12 @@ div{
 img{
     width: 100%;
     border: white solid;
-    border-width: 5px;
-    margin-top: 20px;
-    margin-bottom: 3000px;
-    
+
 }
 body{
     background-color: black;
 }
 h1{
     font-family:  "Libre Baskerville", serif;
+    font-size: 3rem;
 }     
